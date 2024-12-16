@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "526307572976",
-    "firebase_url": "https://userauthentication-24771-default-rtdb.firebaseio.com",
-    "project_id": "userauthentication-24771",
-    "storage_bucket": "userauthentication-24771.appspot.com"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:526307572976:android:8131af6253fc99adca5635",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.Reapers.ForgottenSouls"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC0JdpOhJpiBcLyjGtLmykbzZtOTxdq6dI"
+          "current_key": ""
         }
       ],
       "services": {
