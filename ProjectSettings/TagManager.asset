@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chest
+  - Enemy1
+  - swordHitbox
+  - box
+  - redButton
+  - blueButton
+  - blueBox
+  - redBox
+  - door
+  - Fire
+  - heartDrop
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 4162570923
+    locked: 0
+  - name: aboveGroundBelowPlayer
+    uniqueID: 436603625
+    locked: 0
+  - name: buttons
+    uniqueID: 954219181
+    locked: 0
+  - name: Bridge
+    uniqueID: 1362491075
+    locked: 0
+  - name: objects
+    uniqueID: 355142713
+    locked: 0
+  - name: sidewallsroom2
+    uniqueID: 3451998313
+    locked: 0
+  - name: Building
+    uniqueID: 2743974371
+    locked: 0
